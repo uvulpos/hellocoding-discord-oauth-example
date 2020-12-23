@@ -1,0 +1,7 @@
+{
+    "require": {
+        "bramus/router": "^1.5",
+        "vlucas/phpdotenv": "^5.2",
+        "wohali/oauth2-discord-new": "^1.1"
+    }
+}
