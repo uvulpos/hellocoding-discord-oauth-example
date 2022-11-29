@@ -1,5 +1,5 @@
 # hellocoding-discord-oauth-example
-Artikel:
+(dependencies einmal updaten, aktuelle Guzzle Version enthält Schwachstellen. Project unmaintained)
 
 ![Example 01](readme/01.png)
 ![Example 02](readme/02.png)
